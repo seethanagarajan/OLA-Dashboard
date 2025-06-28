@@ -18,7 +18,6 @@ This Power BI project provides deep insights into OLA cab bookings using interac
 - `OLA Dashboard.pbix`: Fully interactive Power BI dashboard file
 
 ## 📸 Preview:
-*(Insert your dashboard screenshot here)*  
 You can upload a screenshot and add it like this:  
 `![Dashboard Preview](dashboard.png)`
 
