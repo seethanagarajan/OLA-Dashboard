@@ -1,6 +1,3 @@
-## 🔗 Links:
-
-
 # 🚖 OLA Booking Analysis Dashboard – Power BI Project
 
 This Power BI project provides deep insights into OLA cab bookings using interactive visualizations.
